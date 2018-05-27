@@ -9,14 +9,14 @@ We connect people in a meaningful way by taking online dating, offline. AMPR is 
 # THE PROBLEM SPACE
 Through our research, we have found that the current online dating culture puts a heavy emphasis on quick interaction to many people and not about the quality of interactions. Users go through a cycle of downloading a dating app(s), making quick, superficial conversations with other users, rarely actually going on dates, feeling discouraged, deleting the app, unhappy with not meeting people, downloading a dating app(s), and repeat.
 
-## WHAT YOU'LL FIND:
-### [capstoneWeb:](https://github.com/blackturtleneck/capstoneWeb)
+## WHAT YOU'LL FIND
+### [capstoneWeb](https://github.com/blackturtleneck/capstoneWeb)
 This repo contains the web version of AMPR
 
-### [capstoneReactNative:](https://github.com/blackturtleneck/capstoneReactNative)
+### [capstoneReactNative](https://github.com/blackturtleneck/capstoneReactNative)
 This repo contains the mobile version of AMPR.
 
-### [website:](https://github.com/blackturtleneck/website)
+### [website](https://github.com/blackturtleneck/website)
 This repo contains the overview website for AMPR. 
 Visit the final product at dateampr.com
 
