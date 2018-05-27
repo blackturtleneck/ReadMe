@@ -19,16 +19,19 @@ This repo contains the overview website for AMPR.
 Visit the final product at dateampr.com
 
 
-
 ## TECHNOLOGY DECISIONS:
 
 
 
 ## CONTACT INFORMATION
 Jessica Libman: jlibman@uw.edu
+[LinkedIn](https://www.linkedin.com/in/jessica-libman/)
 
-Joycie Yu: joycie@uw.edu
+Joycie Yu: joycie@uw.edu 
+[LinkedIn](https://www.linkedin.com/in/joycieyu/)
 
 Sarah Feldmann: sarahf95@uw.edu
+[LinkedIn](https://www.linkedin.com/in/sarahpfeldmann/)
 
 Zhanna Voloshina: zhannav@uw.edu
+[LinkedIn](https://www.linkedin.com/in/zhannavoloshina/)
