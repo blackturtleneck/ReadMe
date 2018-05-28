@@ -5,7 +5,7 @@ This file contains information about:
 
 [The Problem Space](#the-problem-space)
 
-[What You'll Find (Our Repositories)](#what-you'll-find)
+[What You'll Find (Our Repositories)](#what-youll-find)
 
 [Technology Decisions](#technology-decisions)
 
