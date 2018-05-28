@@ -1,5 +1,14 @@
 # A M P R
-This file contains information about the repositories contained in the blackturtlenack organization, an overview of our product, our technology decisions, and our contact information. 
+This file contains information about:
+
+[About Our Product](#about our product)
+[The Problem Space](#the problem space)
+[What You'll Find (Our Repositories)](#WHAT YOU'LL FIND)
+[Technology Decisions](#TECHNOLOGY DECISIONS)
+[Contact Information](#CONTACT INFORMATION)
+
+
+the repositories contained in the blackturtlenack organization, an overview of our product, our technology decisions, and our contact information. 
 
 AMPR is a project for the University of Washington Information School Informatics Capstone 2018.
 
