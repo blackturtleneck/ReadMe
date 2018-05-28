@@ -5,11 +5,11 @@ This file contains information about:
 
 [The Problem Space](#the-problem-space)
 
-[What You'll Find (Our Repositories)](#WHAT-YOU'LL-FIND)
+[What You'll Find (Our Repositories)](#what-you'll-find)
 
-[Technology Decisions](#TECHNOLOGY-DECISIONS)
+[Technology Decisions](#technology-decisions)
 
-[Contact Information](#CONTACT-INFORMATION)
+[Contact Information](#contact-information)
 
 
 the repositories contained in the blackturtlenack organization, an overview of our product, our technology decisions, and our contact information. 
